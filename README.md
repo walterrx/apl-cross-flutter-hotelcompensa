@@ -1,4 +1,4 @@
-# apl_cross_flutter_hotelcompensa
+# Front End Hotel Compensa
 
 A new Flutter project.
 
